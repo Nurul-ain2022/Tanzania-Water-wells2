@@ -71,7 +71,7 @@ I am sure that these efforts will greatly improve access to clean water for peop
 
 ## For more information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/Nurul-ain2022/dsc-phase-2-project/blob/main/student.ipynb) or review this [presentation](https://github.com/Nurul-ain2022/dsc-phase-2-project/blob/main/Presentation.pdf). 
+See the full analysis in the [Jupyter Notebook]([https://github.com/Nurul-ain2022/dsc-phase-2-project/blob/main/student.ipynb](https://github.com/Nurul-ain2022/Tanzania-Water-wells2/blob/main/Maji.ipynb)) or review this [presentation](https://github.com/Nurul-ain2022/dsc-phase-2-project/blob/main/Presentation.pdf). 
 
 [Click here for the descrition of the column names](https://github.com/Nurul-ain2022/dsc-phase-2-project/blob/main/data/column_names.md)
 
